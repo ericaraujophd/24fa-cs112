@@ -10,6 +10,9 @@ website:
   announcement: 
     content: "**Warning** - this website is outdated and incomplete!" 
     position: below-navbar 
+    dismissable: false
+    type: warning
+    icon: emoji-tear
   title: "CS112 - Data Structures"
   description: "CS112 will teach students to use C++ for creating data structures."
   site-url: "https://ericaraujo.com/24fa-cs112"
